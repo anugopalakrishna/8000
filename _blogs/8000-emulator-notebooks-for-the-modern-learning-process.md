@@ -1,7 +1,7 @@
 ---
 published: true
 date: '2022-07-07 07:47 -0700'
-title: 8000 Emulator Notebooks for the Modern Learning Process
+title: Cisco 8000 Emulator Notebooks for the Modern Learning Process
 author: Annapoorani G
 excerpt: Cisco 8000 Emulator integrated with Jupyter Notebooks
 tags:
